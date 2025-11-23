@@ -1,9 +1,9 @@
 name: Deploy to Swarm (Docker Swarm)
 
 on:
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
 
 env:
   DOCKER_HOST: tcp://<ip-address-of-your-swarm-manager>:2376
