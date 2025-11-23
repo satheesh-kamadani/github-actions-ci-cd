@@ -1,5 +1,4 @@
 name: My First GitHub Actions
-# Actions test
 
 on: [push]
 
